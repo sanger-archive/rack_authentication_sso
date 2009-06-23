@@ -1,0 +1,13 @@
+= Sanger::Rack::Authentication::SSO
+
+This app is a piece of Rack Middleware to abstract the Single Sign-On used
+by the Sanger Institute.
+
+It may or (more likely) may not work with other SSO solutions.
+
+At this moment, see the tests for the settings that need to be passed in when
+using this middleware in a Rackup file or similar.
+
+== Copyright
+
+Copyright (c) 2009 Wellcome Trust Sanger Institute. See LICENSE for details.
