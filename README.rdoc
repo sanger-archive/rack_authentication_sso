@@ -1,0 +1,7 @@
+= rack_authentication_sso
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 Paul Thornthwaite. See LICENSE for details.
