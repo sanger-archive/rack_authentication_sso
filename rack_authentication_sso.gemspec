@@ -20,6 +20,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/rack_authentication_sso.rb",
+     "rack_authentication_sso.gemspec",
      "test/rack_authentication_sso_test.rb",
      "test/test_helper.rb"
   ]
